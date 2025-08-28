@@ -25,12 +25,10 @@ The dataset consists of patient health records with both categorical and continu
 > Note: Dataset is provided for academic purposes only.  
 
 ## Models Implemented  
-1. Logistic Regression  
-2. Support Vector Machine (SVM)  
-3. Decision Tree  
-4. Random Forest  
-5. Gradient Boosting Classifier (GBC)  
-6. CatBoost Classifier  
+1. Support Vector Machine (SVM)  
+2. Decision Tree  
+3. Random Forest   
+4. CatBoost Classifier  
 
 ## Results Summary  
 - **CatBoost**: Training Accuracy 99.87%, Testing Accuracy 99.02%  
